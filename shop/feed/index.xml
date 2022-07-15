@@ -15,7 +15,7 @@
 	<atom:link href="https://duy2109.github.io/pizza/shop/feed/" rel="self" type="application/rss+xml" />
 	<link>https://duy2109.github.io/pizza</link>
 	<description></description>
-	<lastBuildDate>Mon, 04 Jul 2022 06:26:13 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 14 Jul 2022 10:26:30 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -23,155 +23,184 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.9.3</generator>
 	<item>
-		<title>Margherita</title>
-		<link>https://duy2109.github.io/pizza/san-pham/margherita/</link>
-					<comments>https://duy2109.github.io/pizza/san-pham/margherita/#respond</comments>
+		<title>Pizza Hải Sản Pesto Xanh</title>
+		<link>https://duy2109.github.io/pizza/san-pham/pizza-hai-san-pesto-xanh/</link>
+					<comments>https://duy2109.github.io/pizza/san-pham/pizza-hai-san-pesto-xanh/#respond</comments>
 		
 		<dc:creator><![CDATA[duy123]]></dc:creator>
-		<pubDate>Tue, 21 Jun 2022 11:01:25 +0000</pubDate>
-				<guid isPermaLink="false">https://duy2109.github.io/pizza/?post_type=product&#038;p=1372</guid>
+		<pubDate>Thu, 14 Jul 2022 10:26:30 +0000</pubDate>
+				<guid isPermaLink="false">https://duy2109.github.io/pizza/?post_type=product&#038;p=1772</guid>
 
-					<description><![CDATA[Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
-<div class="ddict_btn" style="top: 20px; left: 967.188px;"></div>]]></description>
-										<content:encoded><![CDATA[<p>Lorem Ipsum has been the industry&#8217;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p>
-<div class="ddict_btn" style="top: 52px; left: 998.9px;"></div>
+					<description><![CDATA[<div class="dough-size-overview">Kích thước Nhỏ 6” Đế Dày</div>
+<div class="content-description">Tôm, cua, mực và bông cải xanh tươi ngon trên nền sốt Pesto Xanh</div>
+<div class="attributes"></div>]]></description>
+										<content:encoded><![CDATA[<div class="dough-size-overview">Kích thước Nhỏ 6” Đế Dày</div>
+<div class="content-description">Tôm, cua, mực và bông cải xanh tươi ngon trên nền sốt Pesto Xanh</div>
+<div class="attributes"></div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://duy2109.github.io/pizza/san-pham/margherita/feed/</wfw:commentRss>
+					<wfw:commentRss>https://duy2109.github.io/pizza/san-pham/pizza-hai-san-pesto-xanh/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Veg Loaded</title>
+		<link>https://duy2109.github.io/pizza/san-pham/veg-loaded/</link>
+					<comments>https://duy2109.github.io/pizza/san-pham/veg-loaded/#respond</comments>
+		
+		<dc:creator><![CDATA[duy123]]></dc:creator>
+		<pubDate>Wed, 13 Jul 2022 13:15:56 +0000</pubDate>
+				<guid isPermaLink="false">https://duy2109.github.io/pizza/?post_type=product&#038;p=1732</guid>
+
+					<description><![CDATA[Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.]]></description>
+										<content:encoded><![CDATA[<p>Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://duy2109.github.io/pizza/san-pham/veg-loaded/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Paneer Makhani</title>
-		<link>https://duy2109.github.io/pizza/san-pham/paneer-makhani/</link>
-					<comments>https://duy2109.github.io/pizza/san-pham/paneer-makhani/#respond</comments>
+		<link>https://duy2109.github.io/pizza/san-pham/paneer-makhani-4/</link>
+					<comments>https://duy2109.github.io/pizza/san-pham/paneer-makhani-4/#respond</comments>
 		
 		<dc:creator><![CDATA[duy123]]></dc:creator>
-		<pubDate>Mon, 20 Jun 2022 08:44:07 +0000</pubDate>
-				<guid isPermaLink="false">https://duy2109.github.io/pizza/?post_type=product&#038;p=1340</guid>
+		<pubDate>Wed, 13 Jul 2022 13:08:25 +0000</pubDate>
+				<guid isPermaLink="false">https://duy2109.github.io/pizza/?post_type=product&#038;p=1724</guid>
 
-					<description><![CDATA[Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.]]></description>
-										<content:encoded><![CDATA[<p>Lorem Ipsum has been the industry&#8217;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p>
+					<description><![CDATA[Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.]]></description>
+										<content:encoded><![CDATA[<p>Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://duy2109.github.io/pizza/san-pham/paneer-makhani/feed/</wfw:commentRss>
+					<wfw:commentRss>https://duy2109.github.io/pizza/san-pham/paneer-makhani-4/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
-		<title>Red Fresh Carrot</title>
-		<link>https://duy2109.github.io/pizza/san-pham/red-fresh-carrot/</link>
-					<comments>https://duy2109.github.io/pizza/san-pham/red-fresh-carrot/#respond</comments>
+		<title>Veg Extravaganza</title>
+		<link>https://duy2109.github.io/pizza/san-pham/veg-extravaganza-2/</link>
+					<comments>https://duy2109.github.io/pizza/san-pham/veg-extravaganza-2/#respond</comments>
 		
 		<dc:creator><![CDATA[duy123]]></dc:creator>
-		<pubDate>Mon, 20 Jun 2022 08:08:50 +0000</pubDate>
-				<guid isPermaLink="false">https://duy2109.github.io/pizza/?post_type=product&#038;p=1305</guid>
+		<pubDate>Wed, 13 Jul 2022 13:01:08 +0000</pubDate>
+				<guid isPermaLink="false">https://duy2109.github.io/pizza/?post_type=product&#038;p=1717</guid>
 
-					<description><![CDATA[Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.]]></description>
-										<content:encoded><![CDATA[<p>Lorem Ipsum has been the industry&#8217;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p>
+					<description><![CDATA[Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.]]></description>
+										<content:encoded><![CDATA[<p>Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://duy2109.github.io/pizza/san-pham/red-fresh-carrot/feed/</wfw:commentRss>
+					<wfw:commentRss>https://duy2109.github.io/pizza/san-pham/veg-extravaganza-2/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
-		<title>K/M T7 Pizzas</title>
-		<link>https://duy2109.github.io/pizza/san-pham/k-m-t7-pizzas/</link>
-					<comments>https://duy2109.github.io/pizza/san-pham/k-m-t7-pizzas/#respond</comments>
+		<title>Margherita</title>
+		<link>https://duy2109.github.io/pizza/san-pham/margherita-3/</link>
+					<comments>https://duy2109.github.io/pizza/san-pham/margherita-3/#respond</comments>
 		
 		<dc:creator><![CDATA[duy123]]></dc:creator>
-		<pubDate>Mon, 20 Jun 2022 07:26:02 +0000</pubDate>
-				<guid isPermaLink="false">https://duy2109.github.io/pizza/?post_type=product&#038;p=1281</guid>
+		<pubDate>Wed, 13 Jul 2022 12:56:04 +0000</pubDate>
+				<guid isPermaLink="false">https://duy2109.github.io/pizza/?post_type=product&#038;p=1710</guid>
 
-					<description><![CDATA[những sản phẩm sau đây được nhiều khách hàng ăn và đánh giá rất cao về chất lượng mùi vị.]]></description>
-										<content:encoded><![CDATA[<p>khuyến mãi tháng 7</p>
-]]></content:encoded>
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
 					
-					<wfw:commentRss>https://duy2109.github.io/pizza/san-pham/k-m-t7-pizzas/feed/</wfw:commentRss>
+					<wfw:commentRss>https://duy2109.github.io/pizza/san-pham/margherita-3/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
-		<title>Deluxe Veggie</title>
-		<link>https://duy2109.github.io/pizza/san-pham/deluxe-veggie/</link>
-					<comments>https://duy2109.github.io/pizza/san-pham/deluxe-veggie/#respond</comments>
+		<title>Veggie Paradise</title>
+		<link>https://duy2109.github.io/pizza/san-pham/veggie-paradise-2/</link>
+					<comments>https://duy2109.github.io/pizza/san-pham/veggie-paradise-2/#respond</comments>
 		
 		<dc:creator><![CDATA[duy123]]></dc:creator>
-		<pubDate>Mon, 13 Jun 2022 09:26:29 +0000</pubDate>
-				<guid isPermaLink="false">https://duy2109.github.io/pizza/?post_type=product&#038;p=1197</guid>
+		<pubDate>Wed, 13 Jul 2022 12:52:04 +0000</pubDate>
+				<guid isPermaLink="false">https://duy2109.github.io/pizza/?post_type=product&#038;p=1702</guid>
 
-					<description><![CDATA[Lorem Ipsum đã trở thành văn bản giả tiêu chuẩn của ngành kể từ những năm 1500, khi một nhà in không xác định lấy một dãy loại và xáo trộn nó để tạo thành một cuốn sách mẫu. Nó đã tồn tại không chỉ năm thế kỷ, mà còn là bước nhảy vọt trong lĩnh vực sắp chữ điện tử, về cơ bản vẫn không thay đổi.]]></description>
-										<content:encoded><![CDATA[<p>Lorem Ipsum đã trở thành văn bản giả tiêu chuẩn của ngành kể từ những năm 1500, khi một nhà in không xác định lấy một dãy loại và xáo trộn nó để tạo thành một cuốn sách mẫu. Nó đã tồn tại không chỉ năm thế kỷ, mà còn là bước nhảy vọt trong lĩnh vực sắp chữ điện tử, về cơ bản vẫn không thay đổi.</p>
+					<description><![CDATA[Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.]]></description>
+										<content:encoded><![CDATA[<p>Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://duy2109.github.io/pizza/san-pham/deluxe-veggie/feed/</wfw:commentRss>
+					<wfw:commentRss>https://duy2109.github.io/pizza/san-pham/veggie-paradise-2/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
-		<title>Cheese N Corn</title>
-		<link>https://duy2109.github.io/pizza/san-pham/cheese-n-corn/</link>
-					<comments>https://duy2109.github.io/pizza/san-pham/cheese-n-corn/#respond</comments>
+		<title>Paneer Makhani</title>
+		<link>https://duy2109.github.io/pizza/san-pham/paneer-makhani-3/</link>
+					<comments>https://duy2109.github.io/pizza/san-pham/paneer-makhani-3/#respond</comments>
 		
 		<dc:creator><![CDATA[duy123]]></dc:creator>
-		<pubDate>Mon, 13 Jun 2022 09:18:37 +0000</pubDate>
-				<guid isPermaLink="false">https://duy2109.github.io/pizza/?post_type=product&#038;p=1191</guid>
+		<pubDate>Wed, 13 Jul 2022 12:44:42 +0000</pubDate>
+				<guid isPermaLink="false">https://duy2109.github.io/pizza/?post_type=product&#038;p=1695</guid>
 
-					<description><![CDATA[Lorem Ipsum đã trở thành văn bản giả tiêu chuẩn của ngành kể từ những năm 1500, khi một nhà in không xác định lấy một dãy loại và xáo trộn nó để tạo thành một cuốn sách mẫu. Nó đã tồn tại không chỉ năm thế kỷ, mà còn là bước nhảy vọt trong lĩnh vực sắp chữ điện tử, về cơ bản vẫn không thay đổi.]]></description>
-										<content:encoded><![CDATA[<p>Lorem Ipsum đã trở thành văn bản giả tiêu chuẩn của ngành kể từ những năm 1500, khi một nhà in không xác định lấy một dãy loại và xáo trộn nó để tạo thành một cuốn sách mẫu. Nó đã tồn tại không chỉ năm thế kỷ, mà còn là bước nhảy vọt trong lĩnh vực sắp chữ điện tử, về cơ bản vẫn không thay đổi.</p>
+					<description><![CDATA[Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged]]></description>
+										<content:encoded><![CDATA[<p>Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://duy2109.github.io/pizza/san-pham/cheese-n-corn/feed/</wfw:commentRss>
+					<wfw:commentRss>https://duy2109.github.io/pizza/san-pham/paneer-makhani-3/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
-		<title>Red Tomato</title>
-		<link>https://duy2109.github.io/pizza/san-pham/red-tomato/</link>
-					<comments>https://duy2109.github.io/pizza/san-pham/red-tomato/#respond</comments>
+		<title>Veg Extravaganza</title>
+		<link>https://duy2109.github.io/pizza/san-pham/veg-extravaganza/</link>
+					<comments>https://duy2109.github.io/pizza/san-pham/veg-extravaganza/#respond</comments>
 		
 		<dc:creator><![CDATA[duy123]]></dc:creator>
-		<pubDate>Mon, 13 Jun 2022 09:06:13 +0000</pubDate>
-				<guid isPermaLink="false">https://duy2109.github.io/pizza/?post_type=product&#038;p=1170</guid>
+		<pubDate>Wed, 13 Jul 2022 12:38:39 +0000</pubDate>
+				<guid isPermaLink="false">https://duy2109.github.io/pizza/?post_type=product&#038;p=1688</guid>
 
-					<description><![CDATA[Lorem Ipsum đã trở thành văn bản giả tiêu chuẩn của ngành kể từ những năm 1500, khi một nhà in không xác định lấy một dãy loại và xáo trộn nó để tạo thành một cuốn sách mẫu. Nó đã tồn tại không chỉ năm thế kỷ, mà còn là bước nhảy vọt trong lĩnh vực sắp chữ điện tử, về cơ bản vẫn không thay đổi.
-<div class="ddict_btn" style="top: 21px; left: 947.675px;"><img src="chrome-extension://bpggmmljdiliancllaapiggllnkbjocb/logo/48.png" /></div>]]></description>
-										<content:encoded><![CDATA[<p>Lorem Ipsum đã trở thành văn bản giả tiêu chuẩn của ngành kể từ những năm 1500, khi một nhà in không xác định lấy một dãy loại và xáo trộn nó để tạo thành một cuốn sách mẫu. Nó đã tồn tại không chỉ năm thế kỷ, mà còn là bước nhảy vọt trong lĩnh vực sắp chữ điện tử, về cơ bản vẫn không thay đổi.</p>
-<div class="ddict_btn" style="top: 1px; left: 998.9px;"><img src="chrome-extension://bpggmmljdiliancllaapiggllnkbjocb/logo/48.png" /></div>
-<div class="ddict_btn" style="top: 22px; left: 998.9px;"><img src="chrome-extension://bpggmmljdiliancllaapiggllnkbjocb/logo/48.png" /></div>
+					<description><![CDATA[Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.]]></description>
+										<content:encoded><![CDATA[<p>Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://duy2109.github.io/pizza/san-pham/red-tomato/feed/</wfw:commentRss>
+					<wfw:commentRss>https://duy2109.github.io/pizza/san-pham/veg-extravaganza/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
-		<title>Fresh Broccoli</title>
-		<link>https://duy2109.github.io/pizza/san-pham/fresh-broccoli/</link>
-					<comments>https://duy2109.github.io/pizza/san-pham/fresh-broccoli/#respond</comments>
+		<title>Margherita</title>
+		<link>https://duy2109.github.io/pizza/san-pham/margherita-2/</link>
+					<comments>https://duy2109.github.io/pizza/san-pham/margherita-2/#respond</comments>
 		
 		<dc:creator><![CDATA[duy123]]></dc:creator>
-		<pubDate>Mon, 13 Jun 2022 08:47:43 +0000</pubDate>
-				<guid isPermaLink="false">https://duy2109.github.io/pizza/?post_type=product&#038;p=913</guid>
+		<pubDate>Tue, 12 Jul 2022 15:20:39 +0000</pubDate>
+				<guid isPermaLink="false">https://duy2109.github.io/pizza/?post_type=product&#038;p=1680</guid>
 
-					<description><![CDATA[Lorem Ipsum đã trở thành văn bản giả tiêu chuẩn của ngành kể từ những năm 1500, khi một nhà in không xác định lấy một dãy loại và xáo trộn nó để tạo thành một cuốn sách mẫu. Nó đã tồn tại không chỉ năm thế kỷ, mà còn là bước nhảy vọt trong lĩnh vực sắp chữ điện tử, về cơ bản vẫn không thay đổi.
-<div class="ddict_btn" style="top: 16px; left: 947.675px;"><img src="chrome-extension://bpggmmljdiliancllaapiggllnkbjocb/logo/48.png" /></div>]]></description>
-										<content:encoded><![CDATA[<div class="product-prices">
-<div class="product-price h5 ">
-<div class="current-price">Lorem Ipsum đã trở thành văn bản giả tiêu chuẩn của ngành kể từ những năm 1500, khi một nhà in không xác định lấy một dãy loại và xáo trộn nó để tạo thành một cuốn sách mẫu. Nó đã tồn tại không chỉ năm thế kỷ, mà còn là bước nhảy vọt trong lĩnh vực sắp chữ điện tử, về cơ bản vẫn không thay đổi.</div>
-</div>
-</div>
+					<description><![CDATA[Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.]]></description>
+										<content:encoded><![CDATA[<p>Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://duy2109.github.io/pizza/san-pham/fresh-broccoli/feed/</wfw:commentRss>
+					<wfw:commentRss>https://duy2109.github.io/pizza/san-pham/margherita-2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Veggie Paradise</title>
+		<link>https://duy2109.github.io/pizza/san-pham/veggie-paradise/</link>
+					<comments>https://duy2109.github.io/pizza/san-pham/veggie-paradise/#respond</comments>
+		
+		<dc:creator><![CDATA[duy123]]></dc:creator>
+		<pubDate>Tue, 12 Jul 2022 15:14:26 +0000</pubDate>
+				<guid isPermaLink="false">https://duy2109.github.io/pizza/?post_type=product&#038;p=1671</guid>
+
+					<description><![CDATA[Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.]]></description>
+										<content:encoded><![CDATA[<p>Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://duy2109.github.io/pizza/san-pham/veggie-paradise/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
