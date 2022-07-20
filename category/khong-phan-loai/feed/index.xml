@@ -15,7 +15,7 @@
 	<atom:link href="https://duy2109.github.io/pizza/category/khong-phan-loai/feed/" rel="self" type="application/rss+xml" />
 	<link>https://duy2109.github.io/pizza</link>
 	<description></description>
-	<lastBuildDate>Mon, 04 Jul 2022 10:33:42 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 15 Jul 2022 07:57:03 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -23,6 +23,90 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.9.3</generator>
 	<item>
+		<title>Contact</title>
+		<link>https://duy2109.github.io/pizza/contact/</link>
+					<comments>https://duy2109.github.io/pizza/contact/#respond</comments>
+		
+		<dc:creator><![CDATA[duy123]]></dc:creator>
+		<pubDate>Fri, 15 Jul 2022 07:56:59 +0000</pubDate>
+				<category><![CDATA[Chưa phân loại]]></category>
+		<guid isPermaLink="false">https://duy2109.github.io/pizza/?p=1783</guid>
+
+					<description><![CDATA[First Name Last Name Country AustraliaCanadaUSA Subject]]></description>
+										<content:encoded><![CDATA[
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {font-family: Arial, Helvetica, sans-serif;}
+* {box-sizing: border-box;}
+
+input[type=text], select, textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+}
+
+input[type=submit] {
+  background-color: #04AA6D;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input[type=submit]:hover {
+  background-color: #45a049;
+}
+
+.container {
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 20px;
+}
+</style>
+</head>
+<body>
+
+<div class="container">
+  <form action="/action_page.php">
+    <label for="fname">First Name</label>
+    <input type="text" id="fname" name="firstname" placeholder="Your name..">
+
+    <label for="lname">Last Name</label>
+    <input type="text" id="lname" name="lastname" placeholder="Your last name..">
+
+    <label for="country">Country</label>
+    <select id="country" name="country">
+      <option value="australia">Australia</option>
+      <option value="canada">Canada</option>
+      <option value="usa">USA</option>
+    </select>
+
+    <label for="subject">Subject</label>
+    <textarea id="subject" name="subject" placeholder="Write something.." style="height:200px"></textarea>
+
+    <input type="submit" value="Submit">
+  </form>
+</div>
+
+</body>
+</html>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://duy2109.github.io/pizza/contact/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Các Loại Nhân Pizza</title>
 		<link>https://duy2109.github.io/pizza/cac-loai-nhan-pizza/</link>
 					<comments>https://duy2109.github.io/pizza/cac-loai-nhan-pizza/#respond</comments>

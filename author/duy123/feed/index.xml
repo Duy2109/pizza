@@ -15,7 +15,7 @@
 	<atom:link href="https://duy2109.github.io/pizza/author/duy123/feed/" rel="self" type="application/rss+xml" />
 	<link>https://duy2109.github.io/pizza</link>
 	<description></description>
-	<lastBuildDate>Mon, 04 Jul 2022 10:33:42 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 15 Jul 2022 07:57:03 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -23,6 +23,90 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.9.3</generator>
 	<item>
+		<title>Contact</title>
+		<link>https://duy2109.github.io/pizza/contact/</link>
+					<comments>https://duy2109.github.io/pizza/contact/#respond</comments>
+		
+		<dc:creator><![CDATA[duy123]]></dc:creator>
+		<pubDate>Fri, 15 Jul 2022 07:56:59 +0000</pubDate>
+				<category><![CDATA[Chưa phân loại]]></category>
+		<guid isPermaLink="false">https://duy2109.github.io/pizza/?p=1783</guid>
+
+					<description><![CDATA[First Name Last Name Country AustraliaCanadaUSA Subject]]></description>
+										<content:encoded><![CDATA[
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {font-family: Arial, Helvetica, sans-serif;}
+* {box-sizing: border-box;}
+
+input[type=text], select, textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+}
+
+input[type=submit] {
+  background-color: #04AA6D;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input[type=submit]:hover {
+  background-color: #45a049;
+}
+
+.container {
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 20px;
+}
+</style>
+</head>
+<body>
+
+<div class="container">
+  <form action="/action_page.php">
+    <label for="fname">First Name</label>
+    <input type="text" id="fname" name="firstname" placeholder="Your name..">
+
+    <label for="lname">Last Name</label>
+    <input type="text" id="lname" name="lastname" placeholder="Your last name..">
+
+    <label for="country">Country</label>
+    <select id="country" name="country">
+      <option value="australia">Australia</option>
+      <option value="canada">Canada</option>
+      <option value="usa">USA</option>
+    </select>
+
+    <label for="subject">Subject</label>
+    <textarea id="subject" name="subject" placeholder="Write something.." style="height:200px"></textarea>
+
+    <input type="submit" value="Submit">
+  </form>
+</div>
+
+</body>
+</html>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://duy2109.github.io/pizza/contact/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Các Loại Nhân Pizza</title>
 		<link>https://duy2109.github.io/pizza/cac-loai-nhan-pizza/</link>
 					<comments>https://duy2109.github.io/pizza/cac-loai-nhan-pizza/#respond</comments>
@@ -424,29 +508,6 @@
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://duy2109.github.io/pizza/new-client-landed/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>An Amazing responsive and Retina ready theme.</title>
-		<link>https://duy2109.github.io/pizza/welcome-to-flatsome-an-amazing-responsive-and-retina-ready-theme/</link>
-					<comments>https://duy2109.github.io/pizza/welcome-to-flatsome-an-amazing-responsive-and-retina-ready-theme/#respond</comments>
-		
-		<dc:creator><![CDATA[duy123]]></dc:creator>
-		<pubDate>Sun, 11 Aug 2013 16:35:51 +0000</pubDate>
-				<category><![CDATA[Style]]></category>
-		<guid isPermaLink="false">http://localhost:8888/test/?p=474</guid>
-
-					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam sed eleifend risus, sit amet porttitor massa. Ut vulputate felis at mauris ultrices sodales. Phasellus in leo ornare, vulputate purus eget, iaculis tellus. Donec sed laoreet orci. Praesent faucibus feugiat velit a iaculis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. [...]]]></description>
-										<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam sed eleifend risus, sit amet porttitor massa. Ut vulputate felis at mauris ultrices sodales. Phasellus in leo ornare, vulputate purus eget, iaculis tellus. Donec sed laoreet orci. Praesent faucibus feugiat velit a iaculis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Morbi turpis mauris, consequat laoreet metus non, dictum fringilla sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla ornare malesuada ultricies. Nulla luctus velit diam, at lacinia odio aliquam nec. In adipiscing, arcu elementum dictum eleifend, mi velit sodales nisi, a semper tellus magna sed justo. Ut mauris velit, tristique id nulla eget, euismod consequat lacus. Vestibulum varius dapibus lacus et vestibulum.</p>
-<blockquote><p>Ut eu imperdiet arcu. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Cras interdum porttitor quam at tempus. Sed quis rutrum lorem.</p></blockquote>
-<p>Ut eu imperdiet arcu. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Cras interdum porttitor quam at tempus. Sed quis rutrum lorem. Mauris vitae dui ut neque pulvinar mattis. Mauris sed tincidunt nisi. Ut porta quis lorem at consectetur. Mauris elementum vulputate metus, ut cursus felis dictum non. Sed in nulla metus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Phasellus at nunc eget ligula tristique scelerisque in et urna.</p>
-<p>Pellentesque imperdiet, nunc id scelerisque scelerisque, nisi arcu hendrerit leo, vel volutpat arcu mi in risus. Vestibulum iaculis molestie venenatis. Donec faucibus elit quis enim porta, id fringilla lectus feugiat. Sed et diam fermentum, elementum elit et, placerat nisi. Sed vehicula nibh sed tellus elementum condimentum. Fusce laoreet lorem ipsum, vitae aliquam arcu gravida gravida. Nunc eget tristique sem, eu ornare ligula.</p>
-<p>Pellentesque facilisis lobortis volutpat. Etiam non suscipit velit, vitae ornare eros. In hac habitasse platea dictumst. Phasellus eu auctor metus, et porta justo. Vivamus suscipit fermentum ante, eu dignissim orci. Proin faucibus quis orci a dictum. Nulla ac nibh neque. Curabitur eu justo massa.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://duy2109.github.io/pizza/welcome-to-flatsome-an-amazing-responsive-and-retina-ready-theme/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
